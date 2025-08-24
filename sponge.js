@@ -1,2 +1,2 @@
 //THIS IS A SPONGE CAKE FILE,
-document.write("Sponge Cake");
+document.write("Nobody likes Sponge Cake");
